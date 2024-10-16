@@ -1,0 +1,9 @@
+[
+    { "id": 1, "nombre": "Fotos", "precio": 7000, "img": "../img/fotos.jpg" },
+    { "id": 2, "nombre": "Desayuno", "precio": 12000, "img": "../img/desayuno.jpg" },
+    { "id": 3, "nombre": "Cuadro", "precio": 9000, "img": "../img/cuadro4fotos.jpg" },
+    { "id": 4, "nombre": "Fotos imantadas", "precio": 15000, "img": "../img/imagenesimantadas.jpg" },
+    { "id": 5, "nombre": "Álbum de figuritas", "precio": 9000, "img": "../img/albundefiguritas.jpg" },
+    { "id": 6, "nombre": "Fotos Spotify", "precio": 7500, "img": "../img/fotosspotify.jpg" }
+  ]
+  
